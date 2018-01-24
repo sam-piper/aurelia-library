@@ -1,0 +1,10 @@
+{
+    "resolution": "main",
+    "tree": {
+        "src": "c:\\Source\\Octet.Platform\\Octet.Portals.Shared\\node_modules\\typedjson-npm\\package.json",
+        "raw": "npm:typedjson-npm",
+        "main": "js/typed-json.js",
+        "version": "0.1.7",
+        "name": "typedjson-npm"
+    }
+}

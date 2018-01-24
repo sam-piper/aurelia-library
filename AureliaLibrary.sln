@@ -1,0 +1,36 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27130.2010
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Aurelia.App", "Aurelia.App\Aurelia.App.csproj", "{F5A0BFC2-0063-4FF3-A161-05FDF5B6FB00}"
+EndProject
+Project("{9092AA53-FB77-4645-B42D-1CCCA6BD08BD}") = "Shared.Lib", "Shared.Lib\Shared.Lib.njsproj", "{503C2FB4-552E-4CCD-B842-3F3CC1AA93FD}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{538F3D79-AD35-4BA7-BCE3-DEB76367C993}"
+	ProjectSection(SolutionItems) = preProject
+		README.md = README.md
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F5A0BFC2-0063-4FF3-A161-05FDF5B6FB00}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F5A0BFC2-0063-4FF3-A161-05FDF5B6FB00}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F5A0BFC2-0063-4FF3-A161-05FDF5B6FB00}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F5A0BFC2-0063-4FF3-A161-05FDF5B6FB00}.Release|Any CPU.Build.0 = Release|Any CPU
+		{503C2FB4-552E-4CCD-B842-3F3CC1AA93FD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{503C2FB4-552E-4CCD-B842-3F3CC1AA93FD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{503C2FB4-552E-4CCD-B842-3F3CC1AA93FD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{503C2FB4-552E-4CCD-B842-3F3CC1AA93FD}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D0FF4056-4184-4DEB-BFE7-023E0BD38A8C}
+	EndGlobalSection
+EndGlobal
